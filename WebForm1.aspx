@@ -19,7 +19,7 @@
         Age:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <input id="Button1" type="button" value="AGEEEE" /><br />
         <br />
-        <asp:Button ID="btnSubmit" runat="server" OnClick="Button1_Click" Text="Submit" />
+        <asp:Button ID="btnSubmit" runat="server" OnClick="Button1_Click" Text="WHAT" />
     </form>
 </body>
 </html>
