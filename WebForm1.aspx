@@ -16,7 +16,8 @@
         <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
         <br />
         <br />
-        <br />
+        Age:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input id="Button1" type="button" value="AGEEEE" /><br />
         <br />
         <asp:Button ID="btnSubmit" runat="server" OnClick="Button1_Click" Text="Submit" />
     </form>
