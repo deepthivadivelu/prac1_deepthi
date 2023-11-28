@@ -20,6 +20,12 @@
         <input id="Button1" type="button" value="AGEEEE" /><br />
         <br />
         <asp:Button ID="btnSubmit" runat="server" OnClick="Button1_Click" Text="Submit" />
+        <br />
+        <br />
+        Click the button to confirm that deepthi is gay<br />
+        <asp:Button ID="Button2" runat="server" Text="YES" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Button ID="Button3" runat="server" Text="YES" />
     </form>
 </body>
 </html>
